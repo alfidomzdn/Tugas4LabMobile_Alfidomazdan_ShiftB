@@ -1,6 +1,8 @@
 
 # tokokita
-
+Nama   : Alfido Mazdan Marsyadi
+NIM    : H1D022084
+Shift  : B
 ## Screenshot
 ![Halaman Registrasi]![Halaman_Registrasi](https://github.com/user-attachments/assets/903ed1ce-ac64-4d89-a00b-15b1916714be)
 
